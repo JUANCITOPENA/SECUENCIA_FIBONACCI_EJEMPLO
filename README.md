@@ -273,6 +273,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 ```
+## EJemplo Funcionando:
+
+![](APLICACION_FIBONACCI.png)
+
 
 ## Conclusiones 🌟
 
