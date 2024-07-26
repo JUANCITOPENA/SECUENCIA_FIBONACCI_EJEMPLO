@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 600px;
+    height: 700px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    box-sizing: border-box;
+    overflow: hidden; /* Asegurar que el contenedor no se expanda fuera de los límites visibles */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: black;
+    font-size: 18px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 10px;
+    color: blue;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.input {
+    display: block;
+    width: calc(100% - 22px);
+    padding: 10px;
+    font-size: 14px;
+    color: black;
+    background-color: yellow;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.button-container {
+    text-align: center; /* Centra el contenido dentro del contenedor de botones */
+    margin-top: 20px; /* Espacio superior para separar del contenido anterior */
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px; /* Espacio horizontal entre los botones */
+}
+
+#calculateBtn {
+    background-color: green;
+}
+
+#clearBtn {
+    background-color: yellow;
+    color: black;
+}
+
+#exitBtn {
+    background-color: red;
+}
+
+#resultContainer {
+    margin-top: 20px;
+    overflow-y: auto; /* Habilitar el scroll vertical si es necesario */
+    max-height: 400px; /* Limitar la altura máxima del contenedor de resultados */
+}
+
+.result {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.result li {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5px; /* Espacio entre los elementos */
+}
