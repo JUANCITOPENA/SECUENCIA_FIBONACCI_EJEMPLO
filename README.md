@@ -4,6 +4,8 @@
 
 La secuencia de Fibonacci, descubierta por el matemático italiano Leonardo de Pisa en el siglo XIII, es una serie numérica donde cada número es la suma de los dos anteriores: 0, 1, 1, 2, 3, 5, 8, 13, 21, ... Esta secuencia ha cautivado a matemáticos y científicos durante siglos debido a su presencia sorprendente en diversos fenómenos naturales y su aplicabilidad en campos tan dispares como la biología, la informática y las finanzas.
 
+![Fibonacci Spiral](https://upload.wikimedia.org/wikipedia/commons/2/2e/FibonacciSpiral.svg)
+
 ## La Secuencia de Fibonacci en la Naturaleza 🌿
 
 ### Botánica 🌼
