@@ -285,3 +285,31 @@ La secuencia de Fibonacci es más que una curiosidad matemática; es una manifes
 Su prevalencia en la naturaleza y su adopción en tecnologías avanzadas subrayan la importancia de los patrones matemáticos en la innovación y el desarrollo. A medida que la investigación avanza, es probable que se descubran más aplicaciones de esta fascinante secuencia, reforzando el vínculo entre las matemáticas teóricas y las soluciones prácticas a problemas complejos.
 
 Al continuar explorando las aplicaciones de la secuencia de Fibonacci, los científicos y los investigadores pueden descubrir nuevas formas de optimizar procesos, resolver problemas y apreciar la intrincada belleza del universo, demostrando una vez más la profunda conexión entre las matemáticas y el mundo natural.
+
+# Calculadora de Fibonacci
+
+¡Bienvenido a la Calculadora de Fibonacci! 🚀
+
+Este proyecto es una sencilla calculadora que te permite generar la secuencia de Fibonacci hasta un número específico. Implementado con HTML, CSS y JavaScript, es perfecto para aprender y experimentar con la secuencia de Fibonacci.
+
+## ⭐ Invítame una Estrella ⭐
+
+Si te gusta este proyecto, no olvides darle una estrella en GitHub. ¡Tu apoyo es muy importante y me motiva a seguir mejorando!
+
+Ver Proyecto Funcionando: https://juancitopena.github.io/SECUENCIA_FIBONACCI_EJEMPLO/
+
+## 📜 Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](LICENSE).
+
+## 🔔 Sígueme en GitHub
+
+Para estar al tanto de mis últimos proyectos y actualizaciones, sígueme en GitHub.
+
+[![Follow on GitHub](https://img.shields.io/github/followers/tuusuario.svg?style=social&label=Follow)](https://github.com/JUANCITOPENA)
+
+## 🤝 Comparte
+
+Si encuentras útil este proyecto, ¡no dudes en compartirlo con otros!
+
+
